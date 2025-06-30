@@ -32,7 +32,7 @@ jobs:
           plugin_languages_recent_load: 1000
           plugin_languages_recent_days: 365
           commits_authoring: gyoumi, gyoumi@users.noreply.github.com
-          config_debug: yes
+          plugin_languages_sections: most-used, recently-used
 
           plugin_leetcode: yes
           plugin_leetcode_user: gyumi
