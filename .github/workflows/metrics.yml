@@ -35,5 +35,5 @@ jobs:
           
           filename: github-metrics.svg
         
-          committer_branch: main
+          committer_branch: master
           committer_message: "chore: update metrics"
