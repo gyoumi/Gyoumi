@@ -32,3 +32,8 @@ jobs:
           plugin_habits: yes
           plugin_habits_facts: yes
           plugin_habits_charts: yes
+          
+          filename: github-metrics.svg
+        
+          committer_branch: main
+          committer_message: "chore: update metrics"
