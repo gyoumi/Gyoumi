@@ -1,3 +1,3 @@
-![Top Langs](https://github-readme-stats-6zi6-gt7vr6iao-gyoumis-projects.vercel.app/api/top-langs/?username=Gyoum)
+![Top Langs](https://github-readme-stats-6zi6-gt7vr6iao-gyoumis-projects.vercel.app/api/top-langs/?username=Gyoumi)
 
 ![Metrics](./github-metrics.svg)
