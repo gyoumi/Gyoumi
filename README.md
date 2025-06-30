@@ -1,4 +1,4 @@
-<div align="center">
+<div style="display: flex; align-items: center;">
 
   <img src="./github-metrics.svg" />
 
